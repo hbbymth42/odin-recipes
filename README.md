@@ -1,2 +1,3 @@
-# odin-recipes
-Recipes Project (TOP)
+# Odin Recipes
+
+A selection of recipes from [allrecipes](https://www.allrecipes.com/)!
